@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hunnter7
-- 👀 I’m interested in artificial intelligence focused on data analysis
+- 👀 I am interested in web development and interface design
 - 🌱 I’m currently learning Electronic Cybernetic Engineering
-- 💞️ I’m looking to collaborate on a big data related project focused on motorsports
+- 💞️ I am interested in projects that are challenging and drive my professional career
 - 📫 How to reach me arnoldo.trujillo@est.ulsa.edu.ni
 
 <!---
